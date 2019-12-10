@@ -424,8 +424,6 @@ class AlbumController extends Controller
           'status' => 1,
           'message' => config('constant.GETFEED'),
           'data'=>$ret,
-          
-          
       ]);
          
   } 
